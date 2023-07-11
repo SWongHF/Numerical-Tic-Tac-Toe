@@ -40,6 +40,9 @@ Flow diagram is used for easy references and for course evaluation purpose showc
 
 
 # References
+
 [1] 	George Markowsky, “NUMERICAL TIC-TAC-TOE – II,” J. Recreational Mathematics, Vol. 22(3) (1990): 192-200.
+
 [2]	“Minimax Algorithm,” Wikipedia, updated November 23, 2022, accessed December 1, 2022, https://en.wikipedia.org/wiki/Minimax#Minimax_algorithm_with_alternate_moves.
+
 [3]	“A normal Tic-tac-toc AI,” GeorgeSeif on GitHub, April 22, 2017, accessed November 22, 2022, https://github.com/GeorgeSeif/Tic-Tac-Toe-AI.
