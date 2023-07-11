@@ -24,7 +24,7 @@ Find any place that will not cause immediate winning for player 1 in the subsequ
 
 (d) Rules for no good decision: All moves are bad; they form a win for player 1 - ``checkPossibleMove(..., 0)``
 
-		We could only hope that the first player will never see the winning move.
+> We could only hope that the first player never sees the winning move.
 
 ## (ii) Alpha-Beta Search
 ### [ 19104 Games, Winning: 56.46%, Losing: 0.19% ]
