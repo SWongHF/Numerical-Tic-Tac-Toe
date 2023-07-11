@@ -27,7 +27,12 @@ Find any place that will not cause immediate winning for player 1 in the subsequ
 > We could only hope that the first player never sees the winning move.
 
 ## (ii) Alpha-Beta Search
+
 ### [ 19104 Games, Winning: 56.46%, Losing: 0.19% ]
+
+# Validity Detection
+
+Simple string manipulations should work well enough.
 
 # References
 [1] 	George Markowsky, “NUMERICAL TIC-TAC-TOE – II,” J. Recreational Mathematics, Vol. 22(3) (1990): 192-200.
