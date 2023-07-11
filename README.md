@@ -34,6 +34,11 @@ Find any place that will not cause immediate winning for player 1 in the subsequ
 
 Simple string manipulations should work well enough.
 
+Flow diagram is used for easy references and for course evaluation purpose showcasing the ability.
+
+![image](https://github.com/SWongHF/Numerical-Tic-Tac-Toe/assets/36600923/f5bc104f-7255-44d7-9045-a8014d0cbfe3)
+
+
 # References
 [1] 	George Markowsky, “NUMERICAL TIC-TAC-TOE – II,” J. Recreational Mathematics, Vol. 22(3) (1990): 192-200.
 [2]	“Minimax Algorithm,” Wikipedia, updated November 23, 2022, accessed December 1, 2022, https://en.wikipedia.org/wiki/Minimax#Minimax_algorithm_with_alternate_moves.
